@@ -39,6 +39,37 @@ Hospital-Appointment-Management-System
 - Appointments
 - Billing
 
+
+## 📸 Project Screenshots
+
+### Database Connection
+
+![Database Connection](Screenshots/Database-Connection.png)
+
+---
+
+### Tables
+
+![Tables](Screenshots/Tables.png)
+
+---
+
+### Doctor Table
+
+![Doctor Table](Screenshots/Doctor-Table.png)
+
+---
+
+### SQL Queries
+
+![Queries](Screenshots/Queries.png)
+
+---
+
+### Insert Query
+
+![Insert Query](Screenshots/Insert-Query.png)
+
 ## 👩‍💻 Author
 
 Khushboo Raizada
